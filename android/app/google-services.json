@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425924821182",
+    "project_id": "chat-room-app-1995",
+    "storage_bucket": "chat-room-app-1995.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425924821182:android:55c80746c533333e0a5eef",
+        "android_client_info": {
+          "package_name": "com.example.desafio_cloud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQBEYoQ6Hva-3ZogvM3bx_5P9klc4KJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
